@@ -9,10 +9,4 @@
     android:orientation="vertical"
     app:layout_behavior="com.example.allen.coor.BottomBarBehavior">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Footer"
-        android:textColor="@android:color/white" />
-
 </LinearLayout>
